@@ -23,17 +23,3 @@ if (fullPrice > 50000) {
 } else if (fullPrice === 0 || fullPrice === 20000 || fullPrice === 50000) {
     console.log("Особая цена без скидки");
 }
-
-switch ;
-
-
-
-
-
-
-
-
-
-
-
-// 7. Условия на скидку
